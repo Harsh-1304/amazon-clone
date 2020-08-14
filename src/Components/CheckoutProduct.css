@@ -16,9 +16,9 @@
     font-weight: 800;
 }
 
-.checkoutProduct__rating {
+/* .checkoutProduct__rating {
     display: flex;
-}
+} */
 
 .checkoutProduct__info > button {
     background: #f0c14b;
