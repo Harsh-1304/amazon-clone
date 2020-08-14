@@ -32,7 +32,7 @@ function Home() {
             <div className="home__row">
                 <Product
                     id="345678"
-                    title="Sony PS5"
+                    title="Sony PS5 for gamers and game lovers new addition"
                     price={499.99}
                     rating={5}
                     image="https://www.psu.com/wp/wp-content/uploads/2020/07/PS5-5-4-1024x576.jpg"
